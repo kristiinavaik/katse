@@ -1,0 +1,71 @@
+Abstraktne - see omadus on iseloomulik sellistele tekstidele, kus kirjutatakse/räägitakse asjadest, mida pole võimalik meeltega vahetult kogeda. Selle omaduse vastandiks on konkreetsus.
+
+Afektiivne - see omadus on iseloomulik sellistele tekstidele, kus väljendatakse tundeid ja emotsioone (võib olla positiivne, negatiivne, sarkastiline jm). Selle omaduse vastandiks on neutraalsus.
+
+Ajalisuse olulisus - see omadus on iseloomulik sellistele tekstidele, kus väljendatakse sündumuste toimumise järjekorda ehk ühele tegevusele järgneb teine tegevus.
+
+Argumentatiivne - see omadus on iseloomulik sellistele tekstidele, kus autor esitab teema või nähtuse kohta (näiliselt) objektiivseid seisukohti.
+
+Formaalne - see omadus on iseloomulik sellistele tekstidele, mis on oma laadilt ametlikud. Selle vastandiks on informaalsus (nt vestlus kahe sõbra vahel).
+
+Impersonaalne - see omadus on iseloomulik sellistele tekstidele, kus aktiivse tegija asemel on fookuses tegevus või  see kellele/millele too tegevus on suunatud.
+
+Informatsioonitihe - see omadus on iseloomulik sellistele tekstidele, mille eesmärk on anda edasi infot. Info võib esineda mitmel kujul, nt arvsõnad, aastad, entiteeti täpsustavad detailid jne.
+
+Instrueeriv - see omadus on iseloomulik sellistele tekstidele, kus lugejale antakse juhiseid teatud toimingute tegemiseks või kirjeldab mingisuguse protsessi toimumise etappe.
+
+Interaktiivne - see omadus on iseloomulik sellistele tekstidele, kus on rohkem kui üks osaleja ning mida iseloomustab vastastikune suhtlus ja öeldule reageerimine.
+
+Keerukas - see omadus on iseloomulik sellistele tekstidele, millest arusaamine nõuab lisapingutust. Keerukus võib avalduda mitmel moel: sõnatasandil (palju suuri võõrsõnu, nimisõnu jm); lausetasandil (palju keerulisi ja põimitud laused) jm.
+
+Spontaanne - see omadus on iseloomulik sellistele tekstidele, kus kirjutaja esitab vahetut ja loomulikku teksti. Selle vastandiks võib pidada hoolikalt viimistletud teksti.
+
+Subjektiivne - see omadus on iseloomulik sellistele tekstidele, kus teatud teema kohta edastab autor omaenda isiklikku hinnangut/arvamust. 
+
+================================
+
+omavahel sarnased: keerukas-formaalne, subjektiivne-argumentatiivne, instrueerivus-aeg
+
+Neljane jaotus:
+
+1. grupp:
+Abstraktne
+Informatsioonitihe
+Ajalisuse olulisus
+
+2. grupp:
+Afektiivne
+Formaalne
+Interaktiivne
+
+3. grupp:
+Instrueeriv
+Keerukas
+Subjektiivne
+
+4. grupp:
+Spontaanne
+Impersonaalne
+Argumentatiivne
+
+==================================
+Kolmene jaotus:
+
+1. grupp:
+Abstraktne
+Informatsioonitihe
+Ajalisuse olulisus
+Spontaanne
+
+2. grupp:
+Afektiivne
+Formaalne
+Interaktiivne
+Argumentatiivne
+
+3. grupp:
+Instrueeriv
+Keerukas
+Subjektiivne
+Impersonaalne
+
