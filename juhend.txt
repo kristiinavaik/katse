@@ -18,7 +18,7 @@ Interaktiivsus - see omadus on iseloomulik sellistele tekstidele, kus on tüüpi
 
 Keerukus - see omadus on iseloomulik sellistele tekstidele, millest arusaamine nõuab lisapingutust. Keerukus võib avalduda mitmel moel: sõnatasandil (palju suuri võõrsõnu, nimisõnu jm); lausetasandil (palju keerulisi ja põimitud laused) jm.
 
-Spontaansus - see omadus on iseloomulik sellistele tekstidele, kus esitatud tekst on vahetu ja toimetamata. Selle vastandiks võib pidada hoolikalt viimistletud teksti.
+Spontaansus - see omadus on iseloomulik sellistele tekstidele, kus esitatud tekst on vahetu ja toimetamata. Selle vastandiks võib pidada viimistletud teksti.
 
 Subjektiivsus - see omadus on iseloomulik sellistele tekstidele, kus on tuntav autori enda arvamus või hinnang. 
 
