@@ -1,4 +1,4 @@
-Abstraktne - see omadus on iseloomulik sellistele tekstidele, kus kirjutatakse/räägitakse nähtustest ja ideedest, mida pole võimalik meeltega vahetult kogeda või mis väljendavad mittekonkreetsust.
+Abstraktne - see omadus on iseloomulik sellistele tekstidele, kus kirjutatakse/räägitakse nähtustest ja ideedest, mida pole võimalik meeltega vahetult kogeda või väljendatakse mittekonkreetsete sõnade abil.
 
 Afektiivne - see omadus on iseloomulik sellistele tekstidele, kus väljendatakse tundeid ja emotsioone (võib olla positiivne, negatiivne, sarkastiline jm). Selle omaduse vastandiks on neutraalsus.
 
