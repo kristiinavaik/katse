@@ -1,4 +1,4 @@
-Abstraktsus - see omadus on iseloomulik sellistele tekstidele, kus kirjutatakse/räägitakse nähtustest ja ideedest, mida pole võimalik meeltega vahetult kogeda või väljendatakse mittekonkreetsete sõnade abil.
+Abstraktsus - see omadus on iseloomulik sellistele tekstidele, kus kirjutatakse/räägitakse nähtustest ja ideedest, mida pole võimalik meeltega vahetult kogeda või mis on üldised ja mittekonkreetsed.
 
 Afektiivsus - see omadus on iseloomulik sellistele tekstidele, kus väljendatakse tundeid ja emotsioone (võib olla positiivne, negatiivne, sarkastiline jm). Selle omaduse vastandiks on neutraalsus.
 
@@ -10,13 +10,13 @@ Formaalsus - see omadus on iseloomulik sellistele tekstidele, mis on oma laadilt
 
 Impersonaalsus - see omadus on iseloomulik sellistele tekstidele, kus aktiivse tegija asemel on fookuses tegevus/sündmus/olukord vmt või see kellele/millele too tegevus/sündmus on suunatud.
 
-Informatsioonitihedus - see omadus on iseloomulik sellistele tekstidele, mis sisaldavad infot. Info võib esineda nii vormi kui sisu tasandil.
+Informatsioonitihedus - see omadus on iseloomulik sellistele tekstidele, mis sisaldavad infot.
 
 Instrueerivus - see omadus on iseloomulik sellistele tekstidele, kus lugejale antakse juhiseid teatud toimingute tegemiseks või kirjeldab mingisuguse protsessi toimumise etappe.
 
 Interaktiivsus - see omadus on iseloomulik sellistele tekstidele, kus on tüüpiliselt rohkem kui üks osaleja ning mida iseloomustab vastastikune suhtlus.
 
-Keerukus - see omadus on iseloomulik sellistele tekstidele, millest arusaamine nõuab lisapingutust. Keerukus võib avalduda mitmel moel: sõnatasandil (palju suuri võõrsõnu, nimisõnu jm); lausetasandil (palju keerulisi ja põimitud laused) jm.
+Keerukus - see omadus on iseloomulik sellistele tekstidele, millest arusaamine nõuab lisapingutust. Keerukus võib avalduda nii vormi kui sisu tasandil.
 
 Spontaansus - see omadus on iseloomulik sellistele tekstidele, kus esitatud tekst on vahetu ja toimetamata. Selle vastandiks võib pidada viimistletud teksti.
 
@@ -40,7 +40,7 @@ Interaktiivne
 
 3. grupp:
 Instrueeriv
-Keerukas
+Keeruka
 Subjektiivne
 
 4. grupp:
