@@ -10,7 +10,7 @@ Formaalsus - see omadus on iseloomulik sellistele tekstidele, mis on oma laadilt
 
 Impersonaalsus - see omadus on iseloomulik sellistele tekstidele, kus aktiivse tegija asemel on fookuses tegevus/sündmus/olukord vmt või see kellele/millele too tegevus/sündmus on suunatud.
 
-Informatsioonitihedus - see omadus on iseloomulik sellistele tekstidele, mis sisaldavad infot.
+Informatsioonitihedus - see omadus on iseloomulik sellistele tekstidele, mis sisaldavad tihedalt kokkupakitud infot.
 
 Instrueerivus - see omadus on iseloomulik sellistele tekstidele, kus lugejale antakse juhiseid teatud toimingute tegemiseks või kirjeldab mingisuguse protsessi toimumise etappe.
 
